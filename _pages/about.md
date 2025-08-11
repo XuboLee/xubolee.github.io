@@ -7,5 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year Ph. D. student from [school of EECS](https://ei.hust.edu.cn/).
+I'm a third year Ph. D. candidate in [school of EECS](https://ei.hust.edu.cn/) at Huazhong University of Science and Technology, where I am advised by Prof. [Yong Xiao](https://sites.google.com/site/xyong2007/home).
+
 
