@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: center;">
+  <h1>Welcome to Xubo's Homepage</h1>
+</div>
+
 About Me
 ======
 I'm a third year Ph. D. candidate in the [Department of EECS](https://ei.hust.edu.cn/) at Huazhong University of Science and Technology, where I am advised by Prof. [Yong Xiao](https://sites.google.com/site/xyong2007/home).
