@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Wuhan, China"
 site_theme               : "default"
-title                    : "Xubo Li / Site Title"
+title                    : "Xubo Li"
 title_separator          : "-"
 name                     : &name "Xubo Li"
 description              : &description "personal description"
