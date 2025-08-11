@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Welcome to Xubo's Homepage"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 <div style="text-align: center;">
   <h1>Welcome to Xubo's Homepage</h1>
 </div>
