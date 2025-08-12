@@ -24,9 +24,9 @@ For those users that need more advanced functionality, the template also support
 
 Educational Background
 ======
-- <strong>Huazhong University of Science and Technology<\strong><br>
+- <strong>Huazhong University of Science and Technology</strong><br>
   Bachelor of Engineering in Biomedical Engineering (Sept 2019-June 2023)
-- <strong>Huazhong University of Science and Technology<\strong><br>
+- <strong>Huazhong University of Science and Technology</strong><br>
   Doctor of Philosophy in Information and Communication Engineering (Aug 2023-Present)
 
 Publications
