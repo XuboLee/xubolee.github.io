@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him/his"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Wuhan, China"
-  employer         : "HUST"
+  employer         : # "HUST"
   uri              : # URL
   email            : "xuboli@hust.edu.cn" 
 
