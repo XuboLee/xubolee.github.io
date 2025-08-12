@@ -25,7 +25,7 @@ Educational Background
 Publications
 ======
 1. <strong>Xubo Li</strong>, Yong Xiao, and Yingyu Li, "On the Generalization and Personalization Tradeoff for Agentic AI Networks," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
-1. <strong>Xubo Li</strong>, Yuanjie Jia, Yingyu Li, and Yong Xiao, "Towards Energy Efficient Federated Meta-learning in Edge Network," IEEE Vehicular Technology Conference (VTC), Singapore, Jun 2024. [URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10683432)
+1. <strong>Xubo Li</strong>, Yuanjie Jia, Yingyu Li, and Yong Xiao, "Towards Energy Efficient Federated Meta-learning in Edge Network," IEEE Vehicular Technology Conference (VTC), Singapore, Jun 2024. [URL](https://ieeexplore.ieee.org/document/10683432) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10683432)
 
 
 
