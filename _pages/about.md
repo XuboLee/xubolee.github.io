@@ -17,14 +17,14 @@ I'm currently a third year Ph. D. student in the [Department of EECS](https://ei
 
 My research interest includes network intelligence, AI agents, and ML-based communication.
 
-Educational Background
+Education
 ======
 - <strong>Huazhong University of Science and Technology</strong><br>
   Bachelor of Engineering in Biomedical Engineering (Sept 2019-June 2023)
 - <strong>Huazhong University of Science and Technology</strong><br>
   Doctor of Philosophy in Information and Communication Engineering (Sept 2023-Present)
 
-Publications
+Publication
 ======
 1. <strong>Xubo Li</strong>, Yong Xiao, and Yingyu Li, "On the Generalization and Personalization Tradeoff for Agentic AI Networks," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
 1. Qi Wang, <strong>Xubo Li</strong>, and Yong Xiao, "LoRAT: Low Rank Adaptation and Transfer for Multi-environment Channel Estimations," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
@@ -35,15 +35,17 @@ Publications
 
 
 
-
-
-Academic Service
+Service
 ======
 - <strong>Session Chair</strong><br>
   VTC'24Spring, Session Energy Management<br>
   VTC'24Spring, Session Learning Techniques
 - <strong>Reviewer</strong><br>
   ICCC'2024, WCSP'2025, WCSP'2024
+- <strong>Teacher Assistant</strong><br>
+  Fundamentals of Wireless Communication (Mar 2025 - Jul 2025)<br>
+  Fundamentals of Wireless Communication (Mar 2024 - Jul 2024)<br>
+  Next Generation Wireless Network Technology (Sept 2023 - Jan 2024)
 
 
 Contact Information
