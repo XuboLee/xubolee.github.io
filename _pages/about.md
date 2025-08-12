@@ -38,7 +38,7 @@ Publications
 Academic Service
 ======
 - <strong>Session Chair</strong><br>
-  VTC'24Spring, Session Energy Management
+  VTC'24Spring, Session Energy Management<br>
   VTC'24Spring, Session Learning Techniques
 - <strong>Reviewer</strong><br>
   ICCC'2024, WCSP'2025, WCSP'2024
