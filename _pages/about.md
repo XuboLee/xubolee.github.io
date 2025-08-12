@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: center;">
-  <h1>Welcome to Xubo's Homepage</h1>
+  <h1>Welcome to Xubo's Homepage !</h1>
 </div>
 
 About Me
