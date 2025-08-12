@@ -49,6 +49,5 @@ For site content, there is one Markdown file for each type of content, which are
 
 Contact Information
 ------
-Email: xuboli@hust.edu.cn
-
+Email: xuboli@hust.edu.cn<br>
 Phone: +86 15138874886
