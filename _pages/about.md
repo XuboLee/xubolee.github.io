@@ -26,12 +26,12 @@ Education
 
 Publication
 ======
-1. <strong>Xubo Li</strong>, Yong Xiao, and Yingyu Li, "On the Generalization and Personalization Tradeoff for Agentic AI Networks," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
-1. Qi Wang, <strong>Xubo Li</strong>, and Yong Xiao, "LoRAT: Low Rank Adaptation and Transfer for Multi-environment Channel Estimations," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
-1. Yong Xiao, Haoran Zhou, <strong>Xubo Li</strong>, Yayu Gao, Guangming Shi, and Ping Zhang, "SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent Cross-Layer Coordination," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
-1. Yayu Gao, Yong Xiao, Bo Liu, <strong>Xubo Li</strong>, Aoyu Hu, Wenhao Li, Yingyu Li, Guangming Shi, and Ping Zhang, "Skillsets on the Chain: A Blockchain-based Trustworthy Agentic AI Networking Framework," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
-1. <strong>Xubo Li</strong>, Yong Xiao, Yingyu Li, and Guangming Shi. Semantic-Driven Cross-Domain Wireless Localization for Industrial Scenarios. Mobile Communications, 2025,49(5): 67-73.
-1. <strong>Xubo Li</strong>, Yuanjie Jia, Yingyu Li, and Yong Xiao, "Towards Energy Efficient Federated Meta-learning in Edge Network," IEEE Vehicular Technology Conference (VTC), Singapore, Jun 2024. [URL](https://ieeexplore.ieee.org/document/10683432) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10683432)
+1. <strong>*Xubo Li</strong>, Yong Xiao, and Yingyu Li, "On the Generalization and Personalization Tradeoff for Agentic AI Networks," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
+1. Qi Wang, <strong>*Xubo Li</strong>, and Yong Xiao, "LoRAT: Low Rank Adaptation and Transfer for Multi-environment Channel Estimations," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
+1. Yong Xiao, Haoran Zhou, <strong>*Xubo Li</strong>, Yayu Gao, Guangming Shi, and Ping Zhang, "SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent Cross-Layer Coordination," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
+1. Yayu Gao, Yong Xiao, Bo Liu, <strong>*Xubo Li</strong>, Aoyu Hu, Wenhao Li, Yingyu Li, Guangming Shi, and Ping Zhang, "Skillsets on the Chain: A Blockchain-based Trustworthy Agentic AI Networking Framework," IEEE Global Communications Conference (GLOBECOM), accepted, 2025.
+1. <strong>*Xubo Li</strong>, Yong Xiao, Yingyu Li, and Guangming Shi. Semantic-Driven Cross-Domain Wireless Localization for Industrial Scenarios. Mobile Communications, 2025,49(5): 67-73.
+1. <strong>*Xubo Li</strong>, Yuanjie Jia, Yingyu Li, and Yong Xiao, "Towards Energy Efficient Federated Meta-learning in Edge Network," IEEE Vehicular Technology Conference (VTC), Singapore, Jun 2024. [URL](https://ieeexplore.ieee.org/document/10683432) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10683432)
 
 
 
