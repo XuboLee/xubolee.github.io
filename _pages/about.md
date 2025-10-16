@@ -24,7 +24,7 @@ Education
 - <strong>Huazhong University of Science and Technology</strong><br>
   Doctor of Philosophy in Information and Communication Engineering (Sept 2023-Present)
 
-Publication
+Publications
 ======
 1. Yong Xiao, <strong>*Xubo Li</strong>, Haoran Zhou, Yingyu Li, Yayu Gao, Guangming Shi, Ping Zhang, and Marwan Krunz, "SANNet: A Semantic-aware Agentic AI Networking Framework for Cross-Layer Optimization in 6G", IEEE Transactions on Mobile Computing (Under Review), 2025.
 1. Yiwei Liao, Shurui Tu, Yujie Zhou, <strong>*Xubo Li</strong>, Yong Xiao, Yingyu Li, and Guangming Shi, "Hypergraph Reasoning-based Implicit Semantic Recovery for Semantic Communication", IEEE Transactions on Vehicular Technology (Under Review), 2025.
