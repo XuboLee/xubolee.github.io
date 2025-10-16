@@ -26,6 +26,9 @@ Education
 
 Publication
 ======
+1. Yong Xiao, <strong>*Xubo Li</strong>, Haoran Zhou, Yingyu Li, Yayu Gao, Guangming Shi, Ping Zhang, and Marwan Krunz, "SANNet: A Semantic-aware Agentic AI Networking Framework for Cross-Layer Optimization in 6G", IEEE Transactions on Mobile Computing (Under Review), 2025.
+1. Yiwei Liao, Shurui Tu, Yujie Zhou, <strong>*Xubo Li</strong>, Yong Xiao, Yingyu Li, and Guangming Shi, "Hypergraph Reasoning-based Implicit Semantic Recovery for Semantic Communication", IEEE Transactions on Vehicular Technology (Under Review), 2025.
+1. Shihao Xie, <strong>*Xubo Li</strong>, Qi Wang, Yong Xiao, "SMART: A Sparse MoE-Transformer Framework for Environment-aware Channel Prediction", submitted to IEEE Intternational Conference on Communication (ICC), 2026.
 1. <strong>*Xubo Li</strong>, Yong Xiao, and Yingyu Li, "On the Generalization and Personalization Tradeoff for Agentic AI Networks," IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, China, Dec. 2025.
 1. Qi Wang, <strong>*Xubo Li</strong>, and Yong Xiao, "LoRAT: Low Rank Adaptation and Transfer for Multi-environment Channel Estimations," IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, China, Dec. 2025.
 1. Yong Xiao, Haoran Zhou, <strong>*Xubo Li</strong>, Yayu Gao, Guangming Shi, and Ping Zhang, "SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent Cross-Layer Coordination," IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, China, Dec. 2025.
