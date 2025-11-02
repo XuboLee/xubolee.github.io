@@ -20,13 +20,16 @@ My research interest includes network intelligence, agentic AI network, wireless
 
 # 🔥 News
 <span style="background-color: #e9ecef; padding: 4px 8px; border-radius: 6px; font-size: 0.9em; margin-right: 8px; display: inline-block; vertical-align: middle;"><strong>Dec. 2025</strong></span>
-🎉 Our three conference papers on agentic AI networks will be presented at GLOBECOM.
+🎉 Our three conference papers on agentic AI networks will be presented at GLOBECOM!<br>
+
+<span style="background-color: #e9ecef; padding: 4px 8px; border-radius: 6px; font-size: 0.9em; margin-right: 8px; display: inline-block; vertical-align: middle;"><strong>Jun. 2024</strong></span>
+🎉 Give an oral presentation on VTC2024Spring and serve as the chair for Session Energy Management and Learning Techniques!
 
 # 📖 Education
 - <strong>Huazhong University of Science and Technology</strong><br>
-  Bachelor of Engineering in Biomedical Engineering (Sept 2019-June 2023)
+  Doctor of Philosophy in Information and Communication Engineering (Sept 2023-Present) Advisor: [Prof. Yong Xiao](https://sites.google.com/site/xyong2007/home)
 - <strong>Huazhong University of Science and Technology</strong><br>
-  Doctor of Philosophy in Information and Communication Engineering (Sept 2023-Present)
+  Bachelor of Engineering in Biomedical Engineering (Sept 2019-June 2023) Advisor: [Prof. Nicola D'Ascenzo](http://faculty.hust.edu.cn/NICOLADASCENZO/en/index.htm), [Prof. Qingguo Xie](https://faculty.ustc.edu.cn/xieqingguo/zh_CN/index/998003/list/index.htm)
 
 # 📝 Publications
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AyNHy7wAAAAJ).
