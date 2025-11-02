@@ -17,9 +17,11 @@ I'm currently a third year Ph. D. student in the [Department of EIC](https://ei.
 My research interest includes network intelligence, agentic AI network, wireless sensing, and ML for communication.
 
 # 🔥 News
-- <div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);">
-  **- Dec. 2025**
-</div> Our three conference papers on agentic AI networks will be presented at GLOBECOM.
+<div style="background-color: #f0f0f0; padding: 8px 12px; border-radius: 6px; box-shadow: 1px 1px 4px rgba(0,0,0,0.1); max-width: 600px; margin: 0 auto;">
+  <strong>• Dec. 2025</strong>
+</div>
+
+Our three conference papers on agentic AI networks will be presented at GLOBECOM.
 
 # 📖 Education
 - <strong>Huazhong University of Science and Technology</strong><br>
