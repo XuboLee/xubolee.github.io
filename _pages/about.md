@@ -17,11 +17,11 @@ I'm currently a third year Ph. D. student in the [Department of EIC](https://ei.
 My research interest includes network intelligence, agentic AI network, wireless sensing, and ML for communication.
 
 # 🔥 News
-<div style="background-color: #f0f0f0; padding: 8px 12px; border-radius: 6px; box-shadow: 1px 1px 4px rgba(0,0,0,0.1); max-width: 600px; margin: 0 auto;">
-  <strong>• Dec. 2025</strong>
+<div style="background-color: #f0f0f0; padding: 8px 12px; border-radius: 6px; box-shadow: 1px 1px 4px rgba(0,0,0,0.1); width: 150px; height: 36px; margin: 0 auto;">
+  <strong>Dec. 2025</strong>
 </div>
 
-Our three conference papers on agentic AI networks will be presented at GLOBECOM.
+🎉 Our three conference papers on agentic AI networks will be presented at GLOBECOM.
 
 # 📖 Education
 - <strong>Huazhong University of Science and Technology</strong><br>
@@ -46,7 +46,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 1. <strong><em>Xubo Li</em></strong>, Yuanjie Jia, Yingyu Li, and Yong Xiao, "Towards Energy Efficient Federated Meta-learning in Edge Network," <em>IEEE Vehicular Technology Conference (VTC)<\em>, Singapore, Jun 2024. [URL](https://ieeexplore.ieee.org/document/10683432) [PDF](http://xubolee.github.io/files/VTC2024Spring.pdf) [Slides](http://xubolee.github.io/files/VTC2024Spring_Slides.pdf)
 
 
-# 💁 Service
+# 💼 Service
 - <strong>Session Chair</strong><br>
   VTC'24Spring, Session Energy Management<br>
   VTC'24Spring, Session Learning Techniques
