@@ -61,4 +61,4 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <strong>Phone</strong>: +86 15138874886
 
 # 🌏 Visitor Map
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=T0y0LB538NDTVbWFgXpTJ3z1-CyaXjaFR_g6BQCawVk"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=T0y0LB538NDTVbWFgXpTJ3z1-CyaXjaFR_g6BQCawVk&cl=ffffff&w=a"></script>
