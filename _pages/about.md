@@ -12,7 +12,6 @@ redirect_from:
 </div>
 
 # 📌 About Me
-======
 I'm currently a third year Ph. D. student in the [Department of EIC](https://ei.hust.edu.cn/) at Huazhong University of Science and Technology, working with Prof. [Yong Xiao](https://sites.google.com/site/xyong2007/home).<br>
 
 My research interest includes network intelligence, agentic AI network, wireless sensing, and ML for communication.
@@ -44,8 +43,7 @@ My research interest includes network intelligence, agentic AI network, wireless
 1. <strong><em>Xubo Li</em></strong>, Yuanjie Jia, Yingyu Li, and Yong Xiao, "Towards Energy Efficient Federated Meta-learning in Edge Network," IEEE Vehicular Technology Conference (VTC), Singapore, Jun 2024. [URL](https://ieeexplore.ieee.org/document/10683432) [PDF](http://xubolee.github.io/files/VTC2024Spring.pdf) [Slides](http://xubolee.github.io/files/VTC2024Spring_Slides.pdf)
 
 
-Service
-======
+# 💁 Service
 - <strong>Session Chair</strong><br>
   VTC'24Spring, Session Energy Management<br>
   VTC'24Spring, Session Learning Techniques
@@ -57,7 +55,6 @@ Service
   Next Generation Wireless Network Technology (Sept 2023 - Jan 2024)
 
 
-Contact Information
-======
+# 📫 Contact Information
 <strong>Email</strong>: xuboli@hust.edu.cn<br>
 <strong>Phone</strong>: +86 15138874886
