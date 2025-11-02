@@ -27,14 +27,13 @@ My research interest includes network intelligence, agentic AI network, wireless
   Doctor of Philosophy in Information and Communication Engineering (Sept 2023-Present)
 
 # 📝 Publications
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AyNHy7wAAAAJ)
-## Journal papers:
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AyNHy7wAAAAJ).
+<h2 class="pub-section"><strong>Journal papers:</strong></h2>
 **[J1]**. Yong Xiao, <strong><em>Xubo Li</em></strong>, Haoran Zhou, Yingyu Li, Yayu Gao, Guangming Shi, Ping Zhang, and Marwan Krunz, "SANet: A Semantic-aware Agentic AI Networking Framework for Cross-Layer Optimization in 6G", <em>IEEE Transactions on Mobile Computing</em> (Under Review), 2025.<br>
 **[J2]**. Yiwei Liao, Shurui Tu, Yujie Zhou, <strong><em>Xubo Li</em></strong>, Yong Xiao, Yingyu Li, and Guangming Shi, "Hypergraph Reasoning-based Implicit Semantic Recovery for Semantic Communication", <em>IEEE Transactions on Vehicular Technology</em> (Under Review), 2025.<br>
 **[J3]**. <strong><em>Xubo Li</em></strong>, Yong Xiao, Yingyu Li, and Guangming Shi, "Semantic-Driven Cross-Domain Wireless Localization for Industrial Scenarios", <em>Mobile Communications</em>, vol. 49, no. 5, pp. 67–73, 2025.<br>
 
-
-## Conference papers:
+<h2 class="pub-section"><strong>Conference papers:</strong></h2>
 **[C1]**. Zishuo Wang, <strong><em>Xubo Li</em></strong>, Yong Xiao, Zan Li, "Deep Reinforcement Learning-based Multi-parameter Adaptation for Meteor Burst Communication", submitted to <em>IEEE International Conference on Communication (ICC)</em>, 2026.<br>
 **[C2]**. Shihao Xie, <strong><em>Xubo Li</em></strong>, Qi Wang, Yong Xiao, Yingyu Li, "SMART: A Sparse MoE-Transformer Framework for Environment-aware Channel Prediction", submitted to <em>IEEE International Conference on Communication (ICC)</em>, 2026.<br>
 **[C3]**. <strong><em>Xubo Li</em></strong>, Yong Xiao, and Yingyu Li, "On the Generalization and Personalization Tradeoff for Agentic AI Networks," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_MAN.pdf)<br>
