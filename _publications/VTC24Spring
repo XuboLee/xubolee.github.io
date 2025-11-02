@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/VTC24Spring
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-06-24
+venue: 'IEEE Vehicle Technology Conference (VTC)'
 paperurl: 'http://xubolee.github.io/files/VTC2024Spring.pdf'
 citation: 'X. Li, Y. Jia, Y. Li and Y. Xiao, "Towards Energy Efficient Federated Meta-Learning in Edge Network," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, 2024, pp. 1-5'
 ---
