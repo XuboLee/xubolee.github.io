@@ -35,7 +35,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **[J2]**. Yiwei Liao, Shurui Tu, Yujie Zhou, <strong><em>Xubo Li</em></strong>, Yong Xiao, Yingyu Li, and Guangming Shi, "Hypergraph Reasoning-based Implicit Semantic Recovery for Semantic Communication", <em>IEEE Transactions on Vehicular Technology</em> (Under Review), 2025.<br>
 **[J3]**. <strong><em>Xubo Li</em></strong>, Yong Xiao, Yingyu Li, and Guangming Shi, "Semantic-Driven Cross-Domain Wireless Localization for Industrial Scenarios", <em>Mobile Communications</em>, vol. 49, no. 5, pp. 67–73, 2025.<br>
 
-<div style="margin-top: -2rem;"></div>
+<div style="margin-top: -1rem;"></div>
 
 ## Conference Papers:
 **[C1]**. Zishuo Wang, <strong><em>Xubo Li</em></strong>, Yong Xiao, Zan Li, "Deep Reinforcement Learning-based Multi-parameter Adaptation for Meteor Burst Communication", submitted to <em>IEEE International Conference on Communication (ICC)</em>, 2026.<br>
