@@ -35,19 +35,13 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 
 ## Conference papers:
-**[C1]**. Zishuo Wang, <strong><em>Xubo Li</em></strong>, Yong Xiao, Zan Li, "Deep Reinforcement Learning-based Multi-parameter Adaptation for Meteor Burst Communication", submitted to <em>IEEE International Conference on Communication (ICC)</em>, 2026.
-
-**[C2]**. Shihao Xie, <strong><em>Xubo Li</em></strong>, Qi Wang, Yong Xiao, Yingyu Li, "SMART: A Sparse MoE-Transformer Framework for Environment-aware Channel Prediction", submitted to <em>IEEE International Conference on Communication (ICC)</em>, 2026.
-
-**[C3]**. <strong><em>Xubo Li</em></strong>, Yong Xiao, and Yingyu Li, "On the Generalization and Personalization Tradeoff for Agentic AI Networks," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_MAN.pdf)
-
-**[C4]**. Qi Wang, <strong><em>Xubo Li</em></strong>, and Yong Xiao, "LoRAT: Low Rank Adaptation and Transfer for Multi-environment Channel Estimations," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_LoRAT.pdf)
-
-**[C5]**. Yong Xiao, Haoran Zhou, <strong><em>Xubo Li</em></strong>, Yayu Gao, Guangming Shi, and Ping Zhang, "SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent Cross-Layer Coordination," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_SANNET.pdf)
-
-**[C6]**. Yayu Gao, Yong Xiao, Bo Liu, <strong><em>Xubo Li</em></strong>, Aoyu Hu, Wenhao Li, Yingyu Li, Guangming Shi, and Ping Zhang, "Skillsets on the Chain: A Blockchain-based Trustworthy Agentic AI Networking Framework," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_TrustAgentNet.pdf)
-
-**[C7]**. <strong><em>Xubo Li</em></strong>, Yuanjie Jia, Yingyu Li, and Yong Xiao, "Towards Energy Efficient Federated Meta-learning in Edge Network," <em>IEEE Vehicular Technology Conference (VTC)</em>, Singapore, Jun 2024. [URL](https://ieeexplore.ieee.org/document/10683432) [PDF](http://xubolee.github.io/files/VTC2024Spring.pdf) [Slides](http://xubolee.github.io/files/VTC2024Spring_Slides.pdf)
+**[C1]**. Zishuo Wang, <strong><em>Xubo Li</em></strong>, Yong Xiao, Zan Li, "Deep Reinforcement Learning-based Multi-parameter Adaptation for Meteor Burst Communication", submitted to <em>IEEE International Conference on Communication (ICC)</em>, 2026.<br>
+**[C2]**. Shihao Xie, <strong><em>Xubo Li</em></strong>, Qi Wang, Yong Xiao, Yingyu Li, "SMART: A Sparse MoE-Transformer Framework for Environment-aware Channel Prediction", submitted to <em>IEEE International Conference on Communication (ICC)</em>, 2026.<br>
+**[C3]**. <strong><em>Xubo Li</em></strong>, Yong Xiao, and Yingyu Li, "On the Generalization and Personalization Tradeoff for Agentic AI Networks," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_MAN.pdf)<br>
+**[C4]**. Qi Wang, <strong><em>Xubo Li</em></strong>, and Yong Xiao, "LoRAT: Low Rank Adaptation and Transfer for Multi-environment Channel Estimations," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_LoRAT.pdf)<br>
+**[C5]**. Yong Xiao, Haoran Zhou, <strong><em>Xubo Li</em></strong>, Yayu Gao, Guangming Shi, and Ping Zhang, "SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent Cross-Layer Coordination," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_SANNET.pdf)<br>
+**[C6]**. Yayu Gao, Yong Xiao, Bo Liu, <strong><em>Xubo Li</em></strong>, Aoyu Hu, Wenhao Li, Yingyu Li, Guangming Shi, and Ping Zhang, "Skillsets on the Chain: A Blockchain-based Trustworthy Agentic AI Networking Framework," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_TrustAgentNet.pdf)<br>
+**[C7]**. <strong><em>Xubo Li</em></strong>, Yuanjie Jia, Yingyu Li, and Yong Xiao, "Towards Energy Efficient Federated Meta-learning in Edge Network," <em>IEEE Vehicular Technology Conference (VTC)</em>, Singapore, Jun 2024. [URL](https://ieeexplore.ieee.org/document/10683432) [PDF](http://xubolee.github.io/files/VTC2024Spring.pdf) [Slides](http://xubolee.github.io/files/VTC2024Spring_Slides.pdf)<br>
 
 
 # 💼 Service
