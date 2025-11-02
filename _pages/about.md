@@ -17,10 +17,7 @@ I'm currently a third year Ph. D. student in the [Department of EIC](https://ei.
 My research interest includes network intelligence, agentic AI network, wireless sensing, and ML for communication.
 
 # 🔥 News
-<div style="background-color: #f0f0f0; padding: 8px 12px; border-radius: 6px; box-shadow: 1px 1px 4px rgba(0,0,0,0.1); width: 150px; height: 36px; margin: 0 auto;">
-  <strong>Dec. 2025</strong>
-</div>
-
+<span style="background-color: #e9ecef; padding: 4px 8px; border-radius: 6px; font-size: 0.9em; margin-right: 8px; display: inline-block; vertical-align: middle;">Dec. 2025</span>
 🎉 Our three conference papers on agentic AI networks will be presented at GLOBECOM.
 
 # 📖 Education
