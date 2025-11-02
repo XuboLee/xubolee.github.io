@@ -11,14 +11,13 @@ redirect_from:
   <h1>Welcome to Xubo's Homepage !</h1>
 </div>
 
-About Me
+# 📌 About Me
 ======
 I'm currently a third year Ph. D. student in the [Department of EIC](https://ei.hust.edu.cn/) at Huazhong University of Science and Technology, working with Prof. [Yong Xiao](https://sites.google.com/site/xyong2007/home).<br>
 
 My research interest includes network intelligence, agentic AI network, wireless sensing, and ML for communication.
 
 # 🔥 News
-======
 - <div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);">
   **- Dec. 2025**
 </div> Our three conference papers on agentic AI networks will be presented at GLOBECOM.
