@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Towards Energy Efficient Federated Meta-learning in Edge Network"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/VTC24Spring
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+date: 2024-06-24
+paperurl: 'http://xubolee.github.io/files/VTC2024Spring.pdf'
+citation: 'X. Li, Y. Jia, Y. Li and Y. Xiao, "Towards Energy Efficient Federated Meta-Learning in Edge Network," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, 2024, pp. 1-5'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
