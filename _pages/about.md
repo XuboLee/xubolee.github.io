@@ -41,8 +41,7 @@ My research interest includes network intelligence, agentic AI network, wireless
 1. Qi Wang, <strong><em>Xubo Li</em></strong>, and Yong Xiao, "LoRAT: Low Rank Adaptation and Transfer for Multi-environment Channel Estimations," IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, China, Dec. 2025.
 1. Yong Xiao, Haoran Zhou, <strong><em>Xubo Li</em></strong>, Yayu Gao, Guangming Shi, and Ping Zhang, "SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent Cross-Layer Coordination," IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, China, Dec. 2025. [PDF](https://arxiv.org/pdf/2505.18946)
 1. Yayu Gao, Yong Xiao, Bo Liu, <strong><em>Xubo Li</em></strong>, Aoyu Hu, Wenhao Li, Yingyu Li, Guangming Shi, and Ping Zhang, "Skillsets on the Chain: A Blockchain-based Trustworthy Agentic AI Networking Framework," IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, China, Dec. 2025.
-1. <strong><em>Xubo Li</em></strong>, Yuanjie Jia, Yingyu Li, and Yong Xiao, "Towards Energy Efficient Federated Meta-learning in Edge Network," IEEE Vehicular Technology Conference (VTC), Singapore, Jun 2024. [URL](https://ieeexplore.ieee.org/document/10683432) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10683432)
-
+1. <strong><em>Xubo Li</em></strong>, Yuanjie Jia, Yingyu Li, and Yong Xiao, "Towards Energy Efficient Federated Meta-learning in Edge Network," IEEE Vehicular Technology Conference (VTC), Singapore, Jun 2024. [URL](https://ieeexplore.ieee.org/document/10683432) [PDF](http://xubolee.github.io/files/VTC2024Spring.pdf) [Slides](http://xubolee.github.io/files/VTC2024Spring_Slides.pdf)
 
 
 Service
