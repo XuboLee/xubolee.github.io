@@ -42,7 +42,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div style="margin-top: -1rem;"></div>
 
 ## Conference Papers:
-**[C1]**. Haoran Zhou, <strong><em>Xubo Li</em></strong>, Jiahao Li, Yong Xiao, Yingyu Li, "CE-CoLSM: Cloud-Edge Large and Small Models Collaborative Framework for Traffic Prediction", <em>IEEE International Conference on Communication (ICC)</em>, Glasgow, Scotland, UK, May 2026.<br>
+**[C1]**. Haoran Zhou, <strong><em>Xubo Li</em></strong>, Jiahao Li, Yong Xiao, Yingyu Li, "CE-CoLSM: Cloud-Edge Large and Small Models Collaborative Framework for Traffic Prediction", accepted at <em>IEEE International Conference on Communication (ICC)</em>, Glasgow, Scotland, UK, May 2026.<br>
 **[C2]**. Zishuo Wang, <strong><em>Xubo Li</em></strong>, Yong Xiao, Zan Li, "Deep Reinforcement Learning-based Multi-parameter Adaptation for Meteor Burst Communication", submitted to <em>IEEE International Conference on Communication (ICC)</em>, 2026.<br>
 **[C3]**. Shihao Xie, <strong><em>Xubo Li</em></strong>, Qi Wang, Yong Xiao, Yingyu Li, "SMART: A Sparse MoE-Transformer Framework for Environment-aware Channel Prediction", submitted to <em>IEEE International Conference on Communication (ICC)</em>, 2026.<br>
 **[C4]**. <strong><em>Xubo Li</em></strong>, Yong Xiao, and Yingyu Li, "On the Generalization and Personalization Tradeoff for Agentic AI Networks," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_MAN.pdf)<br>
