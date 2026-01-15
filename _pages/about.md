@@ -36,7 +36,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div style="margin-top: -2rem;"></div>
 
 ## Journal Papers:
-**[J1]**. Yong Xiao, <strong><em>Xubo Li</em></strong>, Haoran Zhou, Yingyu Li, Yayu Gao, Guangming Shi, Ping Zhang, and Marwan Krunz, "SANet: A Semantic-aware Agentic AI Networking Framework for Cross-Layer Optimization in 6G", <em>IEEE Transactions on Mobile Computing</em> (Under Review), 2025.<br>
+**[J1]**. Yong Xiao, <strong><em>Xubo Li</em></strong>, Haoran Zhou, Yingyu Li, Yayu Gao, Guangming Shi, Ping Zhang, and Marwan Krunz, "SANet: A Semantic-aware Agentic AI Networking Framework for Cross-Layer Optimization in 6G", under review at <em>IEEE Transactions on Mobile Computing</em>, 2025.<br>
 **[J2]**. <strong><em>Xubo Li</em></strong>, Yong Xiao, Yingyu Li, and Guangming Shi, "Semantic-Driven Cross-Domain Wireless Localization for Industrial Scenarios", <em>Mobile Communications</em>, vol. 49, no. 5, pp. 67–73, 2025.<br>
 
 <div style="margin-top: -1rem;"></div>
