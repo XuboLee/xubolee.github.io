@@ -20,7 +20,7 @@ My research interest includes network intelligence, agentic AI network, wireless
 
 # 🔥 News
 <span style="background-color: #e9ecef; padding: 4px 8px; border-radius: 6px; font-size: 0.9em; margin-right: 8px; display: inline-block; vertical-align: middle;"><strong>Dec. 2025</strong></span>
-🎉 Our three conference papers on agentic AI networks will be presented at GLOBECOM!<br>
+🎉 Our three conference papers on agentic AI network will be presented at GLOBECOM!<br>
 
 <span style="background-color: #e9ecef; padding: 4px 8px; border-radius: 6px; font-size: 0.9em; margin-right: 8px; display: inline-block; vertical-align: middle;"><strong>Jun. 2024</strong></span>
 🎉 Give an oral presentation at VTC2024Spring and serve as the chair for Session Energy Management and Learning Techniques!
