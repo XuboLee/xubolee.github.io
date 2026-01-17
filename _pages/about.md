@@ -12,7 +12,7 @@ redirect_from:
 </div>
 
 # 📌 About Me
-I'm currently a third year Ph. D. candidate in the [Department of EIC](https://ei.hust.edu.cn/) at Huazhong University of Science and Technology, working with Prof. [<em>Yong Xiao<\em>](https://sites.google.com/site/xyong2007/home).<br>
+I'm currently a third year Ph. D. candidate in the [Department of EIC](https://ei.hust.edu.cn/) at Huazhong University of Science and Technology, working with Prof. [<em>Yong Xiao</em>](https://sites.google.com/site/xyong2007/home).<br>
 
 <div style="margin-top: -1rem;"></div>
 
