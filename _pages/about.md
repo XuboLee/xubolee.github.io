@@ -27,7 +27,7 @@ My research interest includes network intelligence, agentic AI network, wireless
 
 # 📖 Education
 - <strong>Huazhong University of Science and Technology</strong><br>
-  Doctor of Philosophy in Information and Communication Engineering (Sept 2023-Present) Advisor: [<em>Prof. Yong Xiao</em>](https://sites.google.com/site/xyong2007/home)
+  Doctor of Philosophy in Information and Communication Engineering (Sept 2023-Present) Advisor: Prof. [<em>Yong Xiao</em>](https://sites.google.com/site/xyong2007/home)
 - <strong>Huazhong University of Science and Technology</strong><br>
   Bachelor of Engineering in Biomedical Engineering (Sept 2019-June 2023) Advisor: Prof. [<em>Nicola D'Ascenzo</em>](http://faculty.hust.edu.cn/NICOLADASCENZO/en/index.htm), Prof. [<em>Qingguo Xie</em>](https://faculty.ustc.edu.cn/xieqingguo/zh_CN/index/998003/list/index.htm)
 
