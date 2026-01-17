@@ -12,7 +12,7 @@ redirect_from:
 </div>
 
 # 📌 About Me
-I'm currently a third year Ph. D. candidate in the [Department of EIC](https://ei.hust.edu.cn/) at Huazhong University of Science and Technology, working with Prof. [Yong Xiao](https://sites.google.com/site/xyong2007/home).<br>
+I'm currently a third year Ph. D. candidate in the [Department of EIC](https://ei.hust.edu.cn/) at Huazhong University of Science and Technology, working with Prof. [<em>Yong Xiao<\em>](https://sites.google.com/site/xyong2007/home).<br>
 
 <div style="margin-top: -1rem;"></div>
 
@@ -29,7 +29,7 @@ My research interest includes network intelligence, agentic AI network, wireless
 - <strong>Huazhong University of Science and Technology</strong><br>
   Doctor of Philosophy in Information and Communication Engineering (Sept 2023-Present) Advisor: [<em>Prof. Yong Xiao</em>](https://sites.google.com/site/xyong2007/home)
 - <strong>Huazhong University of Science and Technology</strong><br>
-  Bachelor of Engineering in Biomedical Engineering (Sept 2019-June 2023) Advisor: [<em>Prof. Nicola D'Ascenzo</em>](http://faculty.hust.edu.cn/NICOLADASCENZO/en/index.htm), [<em>Prof. Qingguo Xie</em>](https://faculty.ustc.edu.cn/xieqingguo/zh_CN/index/998003/list/index.htm)
+  Bachelor of Engineering in Biomedical Engineering (Sept 2019-June 2023) Advisor: Prof. [<em>Nicola D'Ascenzo</em>](http://faculty.hust.edu.cn/NICOLADASCENZO/en/index.htm), Prof. [<em>Qingguo Xie</em>](https://faculty.ustc.edu.cn/xieqingguo/zh_CN/index/998003/list/index.htm)
 
 # 📝 Publications
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AyNHy7wAAAAJ).
