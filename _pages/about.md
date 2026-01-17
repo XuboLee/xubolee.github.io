@@ -67,6 +67,3 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 # 📫 Contact Information
 <strong>Email</strong>: xuboli@hust.edu.cn<br>
 <strong>Phone</strong>: +86 15138874886
-
-# 🌏 Visitor Map
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=T0y0LB538NDTVbWFgXpTJ3z1-CyaXjaFR_g6BQCawVk'></script>
