@@ -63,7 +63,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
   VTC'24Spring, Session Energy Management<br>
   VTC'24Spring, Session Learning Techniques
 - <strong>Reviewer</strong><br>
-  GLOBECOM'2025, WCSP'2025, WCSP'2024, ICCC'2024
+  WCL'2025, GLOBECOM'2025, WCSP'2025, WCSP'2024, ICCC'2024
 - <strong>Teacher Assistant</strong><br>
   Fundamentals of Wireless Communication (Mar 2025 - Jul 2025)<br>
   Fundamentals of Wireless Communication (Mar 2024 - Jul 2024)<br>
