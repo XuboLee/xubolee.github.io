@@ -12,11 +12,11 @@ redirect_from:
 </div>
 
 # 📌 About Me
-I'm currently a third year Ph. D. candidate in the [Department of EIC](https://ei.hust.edu.cn/) at Huazhong University of Science and Technology, working with Prof. [<em>Yong Xiao</em>](https://sites.google.com/site/xyong2007/home).<br>
+I'm currently a third-year Ph.D. candidate in the [Department of EIC](https://ei.hust.edu.cn/) at Huazhong University of Science and Technology, working with Prof. [<em>Yong Xiao</em>](https://sites.google.com/site/xyong2007/home).<br>
 
 <div style="margin-top: -1rem;"></div>
 
-My research interest includes network intelligence, agentic AI networks, wireless sensing, and ML for communication.
+My research interests include network intelligence, agentic AI networks, wireless sensing, and ML for communications.
 
 # 🔥 News
 <span style="background-color: #e9ecef; padding: 4px 8px; border-radius: 6px; font-size: 0.9em; margin-right: 8px; display: inline-block; vertical-align: middle;"><strong>Jan. 2026</strong></span>
@@ -48,9 +48,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div style="margin-top: -1rem;"></div>
 
 ## Conference Papers:
-**[C8]**. Haoran Zhou, <strong><em>Xubo Li</em></strong>, Jiahao Li, Yong Xiao, Yingyu Li, "CE-CoLSM: Cloud-Edge Large and Small Models Collaborative Framework for Traffic Prediction", accepted at <em>IEEE International Conference on Communication (ICC)</em>, Glasgow, Scotland, UK, May 2026.<br>
-**[C7]**. Zishuo Wang, <strong><em>Xubo Li</em></strong>, Yong Xiao, Zan Li, "Deep Reinforcement Learning-based Multi-parameter Adaptation for Meteor Burst Communication", accepted at <em>IEEE International Conference on Communication (ICC)</em>, Glasgow, Scotland, UK, May 2026.<br>
-**[C6]**. Shihao Xie, <strong><em>Xubo Li</em></strong>, Qi Wang, Yong Xiao, Yingyu Li, "SMART: A Sparse MoE-Transformer Framework for Environment-aware Channel Prediction", accepted at <em>IEEE International Conference on Communication (ICC)</em>, Glasgow, Scotland, UK, May 2026.<br>
+**[C8]**. Haoran Zhou, <strong><em>Xubo Li</em></strong>, Jiahao Li, Yong Xiao, Yingyu Li, "CE-CoLSM: Cloud-Edge Large and Small Models Collaborative Framework for Traffic Prediction", accepted at <em>IEEE International Conference on Communication (ICC)</em>, Glasgow, Scotland, UK, May 2026. [PDF](http://xubolee.github.io/files/ICC26_CE-CoLSM.pdf)<br>
+**[C7]**. Zishuo Wang, <strong><em>Xubo Li</em></strong>, Yong Xiao, Zan Li, "Deep Reinforcement Learning-based Multi-parameter Adaptation for Meteor Burst Communication", accepted at <em>IEEE International Conference on Communication (ICC)</em>, Glasgow, Scotland, UK, May 2026. [PDF](http://xubolee.github.io/files/ICC26_MBC.pdf)<br>
+**[C6]**. Shihao Xie, <strong><em>Xubo Li</em></strong>, Qi Wang, Yong Xiao, Yingyu Li, "SMART: A Sparse MoE-Transformer Framework for Environment-aware Channel Prediction", accepted at <em>IEEE International Conference on Communication (ICC)</em>, Glasgow, Scotland, UK, May 2026. [PDF](http://xubolee.github.io/files/ICC26_SMART.pdf)<br>
 **[C5]**. <strong><em>Xubo Li</em></strong>, Yong Xiao, and Yingyu Li, "On the Generalization and Personalization Tradeoff for Agentic AI Networks," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_MAN.pdf) [Slides](http://xubolee.github.io/files/GLOBECOM25_MAN_Slides.pdf)<br>
 **[C4]**. Qi Wang, <strong><em>Xubo Li</em></strong>, and Yong Xiao, "LoRAT: Low Rank Adaptation and Transfer for Multi-environment Channel Estimations," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_LoRAT.pdf) [Slides](http://xubolee.github.io/files/GLOBECOM25_LoRAT_Slides.pdf)<br>
 **[C3]**. Yong Xiao, Haoran Zhou, <strong><em>Xubo Li</em></strong>, Yayu Gao, Guangming Shi, and Ping Zhang, "SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent Cross-Layer Coordination," <em>IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, China, Dec. 2025. [PDF](http://xubolee.github.io/files/GLOBECOM25_SANNet.pdf) [Slides](http://xubolee.github.io/files/GLOBECOM25_SANNet_Slides.pdf)<br>
