@@ -42,7 +42,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div style="margin-top: -2rem;"></div>
 
 ## Journal Papers:
-**[J2]**. Yong Xiao, <strong><em>Xubo Li</em></strong>, Haoran Zhou, Yingyu Li, Yayu Gao, Guangming Shi, Ping Zhang, and Marwan Krunz, "SANet: A Semantic-aware Agentic AI Networking Framework for Cross-Layer Optimization in 6G", under review at <em>IEEE Transactions on Mobile Computing</em>, 2025. [PDF](https://arxiv.org/pdf/2512.22579)<br>
+**[J4]**. <strong><em>Xubo Li</em></strong>, Qi Wang, Yong Xiao, and Yingyu Li, "LoRAT: A Low-Rank Adaptation and Transfer Framework of Foundation Models in Wireless Networks", under review at <em>IEEE Transactions on Network Science and Engineering</em>, 2026.<br>
+**[J3]**. Yayu Gao, Yong Xiao, Hao Hu, <strong><em>Xubo Li</em></strong>, Yingyu Li, Guangming Shi, and Ping Zhang, "Chain of Skillsets: A Blockchain-based Zero-Trust Framework for Agentic AI Networking", under review at <em>IEEE Transactions on Cognitive Communications and Networking</em>, 2026.<br>
+**[J2]**. Yong Xiao, <strong><em>Xubo Li</em></strong>, Haoran Zhou, Yingyu Li, Yayu Gao, Guangming Shi, Ping Zhang, and Marwan Krunz, "SANet: A Semantic-aware Agentic AI Networking Framework for Cross-Layer Optimization in 6G", <em>IEEE Transactions on Mobile Computing</em>, early accept, 2025. [PDF](https://arxiv.org/pdf/2512.22579)<br>
 **[J1]**. <strong><em>Xubo Li</em></strong>, Yong Xiao, Yingyu Li, and Guangming Shi, "Semantic-Driven Cross-Domain Wireless Localization for Industrial Scenarios", <em>Mobile Communications</em>, vol. 49, no. 5, pp. 67–73, 2025.<br>
 
 <div style="margin-top: -1rem;"></div>
