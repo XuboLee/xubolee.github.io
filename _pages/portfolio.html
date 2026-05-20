@@ -1,14 +1,22 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Projects"
+permalink: /projects/
 author_profile: true
+redirect_from:
+  - /portfolio/
 ---
 
 {% include base_path %}
 
+<p>This page collects research projects, ongoing directions, demos, datasets, or code notes.</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+{% assign sorted_projects = site.portfolio | sort: "date" | reverse %}
+{% if sorted_projects.size > 0 %}
+  {% for post in sorted_projects %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p>No projects are published yet. Add a markdown file under <code>_portfolio/</code> when you want to publish one.</p>
+{% endif %}
 

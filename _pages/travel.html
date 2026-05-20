@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Travel"
+permalink: /travel/
+author_profile: true
+---
+
+<p>This page is for conference trips, city notes, lab visits, and memorable travel moments.</p>
+
+{% assign sorted_travel = site.travel | sort: "date" | reverse %}
+{% if sorted_travel.size > 0 %}
+  {% for post in sorted_travel %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p>No travel notes are published yet. Add a markdown file under <code>_travel/</code> when you want to publish one.</p>
+{% endif %}
