@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/lorat-globecom
 date: 2025-12-01
 venue: "IEEE Global Communications Conference (GLOBECOM)"
+authors: "Qi Wang, Xubo Li, and Yong Xiao"
 excerpt: "Low-rank adaptation and transfer for multi-environment channel estimation."
 paperurl: "http://xubolee.github.io/files/GLOBECOM25_LoRAT.pdf"
 slidesurl: "http://xubolee.github.io/files/GLOBECOM25_LoRAT_Slides.pdf"

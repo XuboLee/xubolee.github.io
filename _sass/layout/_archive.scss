@@ -107,6 +107,125 @@
   }
 }
 
+.publications-page {
+  .wordwrap {
+    margin-bottom: 1.25rem;
+  }
+
+  .archive__subtitle {
+    margin-top: 2rem;
+    margin-bottom: 0.9rem;
+    padding-bottom: 0.35rem;
+    font-size: $type-size-4;
+    font-weight: 700;
+    color: var(--global-text-color);
+  }
+
+  .list__item {
+    margin-bottom: 0.85rem;
+
+    @include breakpoint($medium) {
+      padding-right: 0;
+    }
+
+    @include breakpoint($large) {
+      padding-right: 0;
+    }
+
+    @include breakpoint($x-large) {
+      padding-right: 0;
+    }
+  }
+
+  .archive__item {
+    padding: 1rem 1.25rem 0.95rem;
+    border: 1px solid #dbe5ef;
+    border-radius: 22px;
+    background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+    box-shadow: 0 8px 22px rgba(17, 65, 114, 0.06);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+  }
+
+  .archive__item:hover {
+    transform: translateY(-1px);
+    border-color: #b7cce0;
+    box-shadow: 0 12px 26px rgba(17, 65, 114, 0.1);
+  }
+
+  .archive__item-title.publication-card__title {
+    margin: 0;
+    line-height: 1.28;
+    font-size: $type-size-4;
+  }
+
+  .publication-card__title a {
+    text-decoration: none;
+    color: #0f5f94;
+  }
+
+  .publication-card__title a:hover {
+    color: #0b4a74;
+    text-decoration: none;
+  }
+
+  .publication-card__label {
+    margin-right: 0.45rem;
+    color: #1a2f4a;
+    font-weight: 700;
+  }
+
+  .publication-card__name {
+    font-weight: 700;
+  }
+
+  .publication-card__authors,
+  .publication-card__venue,
+  .publication-card__links {
+    margin: 0.35rem 0 0;
+    line-height: 1.32;
+  }
+
+  .publication-card__authors {
+    color: #536b84;
+    font-size: $type-size-5;
+  }
+
+  .publication-card__author--me {
+    color: #0b4a74;
+    font-weight: 700;
+  }
+
+  .publication-card__venue {
+    color: #24384c;
+    font-size: $type-size-5;
+    font-weight: 500;
+  }
+
+  .publication-card__venue-name {
+    font-weight: 700;
+    color: #112f4e;
+  }
+
+  .publication-card__links {
+    font-size: $type-size-6;
+  }
+
+  .publication-card__links a {
+    text-decoration: none;
+    color: #0f5f94;
+    font-weight: 600;
+  }
+
+  .publication-card__links a:hover {
+    text-decoration: underline;
+  }
+
+  .publication-card__separator {
+    margin: 0 0.4rem;
+    color: #7d90a4;
+  }
+}
+
 
 /*
    Grid view
