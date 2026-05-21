@@ -44,3 +44,23 @@ git push
 - The home page now shows only a short introduction and recent publications. The full paper list is managed in `_publications/`.
 - The `Projects` page is backed by `_portfolio/`.
 - The `Travel` page is backed by `_travel/`.
+
+## File Management
+
+Use `files/` with fixed subfolders instead of putting everything in one flat directory:
+
+- Paper PDFs: `files/papers/`
+- Slides PDFs or PPTX: `files/slides/`
+- BibTeX: `files/bib/`
+- Old template leftovers or archival files: `files/archive/`
+
+Recommended workflow for a new publication:
+
+1. Upload the paper PDF to `files/papers/`
+2. Upload slides to `files/slides/` if you want them public
+3. Update the matching file in `_publications/`
+4. Set paths like:
+   - `paperurl: "/files/papers/your-paper.pdf"`
+   - `slidesurl: "/files/slides/your-slides.pdf"`
+
+If a paper does not have a public PDF yet, leave `paperurl` empty.

@@ -20,7 +20,8 @@ author_profile: true
       {% if category_posts.size > 0 %}
         <h2 class="archive__subtitle publication-section__title">{{ category[1].title }}</h2>
         {% for post in category_posts %}
-          {% capture pub_label %}{{ category[1].prefix }}{{ forloop.index }}{% endcapture %}
+          {% assign reverse_index = category_posts.size | minus: forloop.index0 %}
+          {% capture pub_label %}{{ category[1].prefix }}{{ reverse_index }}{% endcapture %}
           {% include archive-single.html pub_label=pub_label %}
         {% endfor %}
       {% endif %}

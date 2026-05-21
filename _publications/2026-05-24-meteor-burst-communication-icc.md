@@ -3,7 +3,7 @@ title: "Deep Reinforcement Learning-based Multi-parameter Adaptation for Meteor 
 collection: publications
 category: conferences
 permalink: /publication/meteor-burst-communication-icc
-date: 2026-05-01
+date: 2026-05-24
 venue: "IEEE International Conference on Communications (ICC)"
 authors: "Zishuo Wang, Xubo Li, Yong Xiao, and Zan Li"
 excerpt: "Deep reinforcement learning for multi-parameter adaptation in meteor burst communication."

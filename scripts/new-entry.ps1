@@ -58,6 +58,10 @@ switch ($Type) {
             "---"
             ""
             "Add an abstract, contribution summary, notes, or related links here."
+            ""
+            "Upload files as needed:"
+            "- PDF: /files/papers/"
+            "- Slides: /files/slides/"
         )
     }
     "project" {
