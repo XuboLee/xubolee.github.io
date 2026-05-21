@@ -21,17 +21,13 @@ author_profile: true
           {% endif %}
         </div>
 
-        {% if post.excerpt %}
-          <p class="travel-card__excerpt">{{ post.excerpt }}</p>
-        {% endif %}
-
         {% if post.gallery %}
-          <p class="travel-card__hint">Scroll or drag horizontally to browse the photos.</p>
           <div class="travel-card__gallery" data-drag-scroll="true">
             {% for img in post.gallery %}
               <a class="travel-card__image-link" href="{{ img.image_path | prepend: '/images/' | prepend: base_path }}">
                 <img
                   class="travel-card__image"
+                  draggable="false"
                   src="{{ img.image_path | prepend: '/images/' | prepend: base_path }}"
                   alt="{% if img.alt %}{{ img.alt }}{% else %}{{ post.title }}{% endif %}">
               </a>
@@ -50,37 +46,53 @@ author_profile: true
     const galleries = document.querySelectorAll("[data-drag-scroll='true']");
 
     galleries.forEach((gallery) => {
-      let isDown = false;
+      let isPointerDown = false;
       let startX = 0;
       let scrollLeft = 0;
 
-      gallery.addEventListener("mousedown", (event) => {
-        isDown = true;
+      gallery.addEventListener("dragstart", (event) => {
+        event.preventDefault();
+      });
+
+      gallery.addEventListener("pointerdown", (event) => {
+        isPointerDown = true;
         gallery.classList.add("is-dragging");
-        startX = event.pageX - gallery.offsetLeft;
+        startX = event.clientX;
         scrollLeft = gallery.scrollLeft;
+        gallery.setPointerCapture(event.pointerId);
       });
 
-      gallery.addEventListener("mouseleave", () => {
-        isDown = false;
+      gallery.addEventListener("pointerup", () => {
+        isPointerDown = false;
         gallery.classList.remove("is-dragging");
       });
 
-      gallery.addEventListener("mouseup", () => {
-        isDown = false;
+      gallery.addEventListener("pointercancel", () => {
+        isPointerDown = false;
         gallery.classList.remove("is-dragging");
       });
 
-      gallery.addEventListener("mousemove", (event) => {
-        if (!isDown) {
+      gallery.addEventListener("pointerleave", () => {
+        isPointerDown = false;
+        gallery.classList.remove("is-dragging");
+      });
+
+      gallery.addEventListener("pointermove", (event) => {
+        if (!isPointerDown) {
           return;
         }
 
         event.preventDefault();
-        const x = event.pageX - gallery.offsetLeft;
-        const walk = (x - startX) * 1.1;
+        const walk = (event.clientX - startX) * 1.2;
         gallery.scrollLeft = scrollLeft - walk;
       });
+
+      gallery.addEventListener("wheel", (event) => {
+        if (Math.abs(event.deltaY) > Math.abs(event.deltaX)) {
+          event.preventDefault();
+          gallery.scrollLeft += event.deltaY;
+        }
+      }, { passive: false });
     });
   });
 </script>
