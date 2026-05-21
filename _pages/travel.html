@@ -5,13 +5,82 @@ permalink: /travel/
 author_profile: true
 ---
 
-<p>This page is for conference trips, city notes, lab visits, and memorable travel moments.</p>
+{% include base_path %}
 
-{% assign sorted_travel = site.travel | sort: "date" | reverse %}
-{% if sorted_travel.size > 0 %}
-  {% for post in sorted_travel %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% else %}
-  <p>No travel notes are published yet. Add a markdown file under <code>_travel/</code> when you want to publish one.</p>
-{% endif %}
+<div class="travel-page">
+  <p class="travel-page__intro">Conference trips, city walks, and memorable moments on the road.</p>
+
+  {% assign sorted_travel = site.travel | sort: "date" | reverse %}
+  {% if sorted_travel.size > 0 %}
+    {% for post in sorted_travel %}
+      <section class="travel-card">
+        <div class="travel-card__header">
+          <h2 class="travel-card__title">{{ post.date | date: "%Y" }} @ {{ post.location }}</h2>
+          {% if post.title %}
+            <p class="travel-card__subtitle">{{ post.title }}</p>
+          {% endif %}
+        </div>
+
+        {% if post.excerpt %}
+          <p class="travel-card__excerpt">{{ post.excerpt }}</p>
+        {% endif %}
+
+        {% if post.gallery %}
+          <p class="travel-card__hint">Scroll or drag horizontally to browse the photos.</p>
+          <div class="travel-card__gallery" data-drag-scroll="true">
+            {% for img in post.gallery %}
+              <a class="travel-card__image-link" href="{{ img.image_path | prepend: '/images/' | prepend: base_path }}">
+                <img
+                  class="travel-card__image"
+                  src="{{ img.image_path | prepend: '/images/' | prepend: base_path }}"
+                  alt="{% if img.alt %}{{ img.alt }}{% else %}{{ post.title }}{% endif %}">
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </section>
+    {% endfor %}
+  {% else %}
+    <p>No travel notes are published yet. Add a markdown file under <code>_travel/</code> when you want to publish one.</p>
+  {% endif %}
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const galleries = document.querySelectorAll("[data-drag-scroll='true']");
+
+    galleries.forEach((gallery) => {
+      let isDown = false;
+      let startX = 0;
+      let scrollLeft = 0;
+
+      gallery.addEventListener("mousedown", (event) => {
+        isDown = true;
+        gallery.classList.add("is-dragging");
+        startX = event.pageX - gallery.offsetLeft;
+        scrollLeft = gallery.scrollLeft;
+      });
+
+      gallery.addEventListener("mouseleave", () => {
+        isDown = false;
+        gallery.classList.remove("is-dragging");
+      });
+
+      gallery.addEventListener("mouseup", () => {
+        isDown = false;
+        gallery.classList.remove("is-dragging");
+      });
+
+      gallery.addEventListener("mousemove", (event) => {
+        if (!isDown) {
+          return;
+        }
+
+        event.preventDefault();
+        const x = event.pageX - gallery.offsetLeft;
+        const walk = (x - startX) * 1.1;
+        gallery.scrollLeft = scrollLeft - walk;
+      });
+    });
+  });
+</script>
