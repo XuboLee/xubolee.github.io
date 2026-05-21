@@ -226,6 +226,68 @@
   }
 }
 
+.service-page {
+  display: grid;
+  gap: 1rem;
+
+  .service-card {
+    padding: 1rem 1.25rem 1.05rem;
+    border: 1px solid #dbe5ef;
+    border-radius: 22px;
+    background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+    box-shadow: 0 8px 22px rgba(17, 65, 114, 0.06);
+  }
+
+  .service-card h2 {
+    margin: 0 0 0.8rem;
+    font-size: $type-size-4;
+    font-weight: 700;
+    color: #112f4e;
+  }
+
+  .service-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.9rem;
+    padding: 0.45rem 0;
+    line-height: 1.4;
+    border-top: 1px solid rgba(183, 204, 224, 0.45);
+  }
+
+  .service-row:first-of-type {
+    border-top: 0;
+    padding-top: 0;
+  }
+
+  .service-year {
+    min-width: 3.4rem;
+    padding: 0.12rem 0.55rem;
+    border-radius: 999px;
+    background: #eef5fb;
+    color: #0f5f94;
+    font-size: $type-size-6;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .service-items {
+    color: #41586e;
+    font-size: $type-size-5;
+  }
+
+  @media (max-width: 640px) {
+    .service-row {
+      flex-direction: column;
+      gap: 0.45rem;
+    }
+
+    .service-year {
+      min-width: 0;
+      width: fit-content;
+    }
+  }
+}
+
 
 /*
    Grid view
