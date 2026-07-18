@@ -53,6 +53,8 @@ switch ($Type) {
             "excerpt: ""One-sentence summary of the paper."""
             "paperurl: """""
             "slidesurl: """""
+            "codeurl: """""
+            "videourl: """""
             "citation: ""Authors, \""$Title\"", venue, year."""
             "published: false"
             "---"
@@ -62,6 +64,8 @@ switch ($Type) {
             "Upload files as needed:"
             "- PDF: /files/papers/"
             "- Slides: /files/slides/"
+            "- Code: external repository URL"
+            "- Video: YouTube/Bilibili/etc. URL"
         )
     }
     "project" {

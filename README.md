@@ -12,6 +12,7 @@ Most updates only require editing one file category:
 - Projects: add one markdown file to `_portfolio/`
 - Travel notes: add one markdown file to `_travel/`
 - PDFs, slides, bib files, images: `files/` and `images/`
+- Code and video links: set directly in publication front matter
 - Top navigation: `_data/navigation.yml`
 
 ## Add New Content
@@ -62,5 +63,7 @@ Recommended workflow for a new publication:
 4. Set paths like:
    - `paperurl: "/files/papers/your-paper.pdf"`
    - `slidesurl: "/files/slides/your-slides.pdf"`
+   - `codeurl: "https://github.com/yourname/your-repo"`
+   - `videourl: "https://www.youtube.com/watch?v=..."`
 
 If a paper does not have a public PDF yet, leave `paperurl` empty.

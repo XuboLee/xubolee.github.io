@@ -15,6 +15,8 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if post.collection == 'publications' %}
+      {% assign publication_video_url = post.videourl | default: post.vediourl %}
+
       {% if post.paperurl %}
         {% assign publication_href = post.paperurl %}
       {% else %}
@@ -40,16 +42,37 @@
         <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%b %Y" }}</time>
       </p>
 
-      {% if post.slidesurl or post.bibtexurl %}
+      {% if post.paperurl or post.slidesurl or post.codeurl or publication_video_url or post.bibtexurl %}
         <p class="publication-card__links">
-          {% if post.slidesurl %}
-            <a href="{{ post.slidesurl }}">Slides</a>
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}" aria-label="PDF" title="PDF">
+              <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+              <span class="sr-only">PDF</span>
+            </a>
           {% endif %}
-          {% if post.slidesurl and post.bibtexurl %}
-            <span class="publication-card__separator">/</span>
+          {% if post.slidesurl %}
+            <a href="{{ post.slidesurl }}" aria-label="Slides" title="Slides">
+              <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>
+              <span class="sr-only">Slides</span>
+            </a>
+          {% endif %}
+          {% if post.codeurl %}
+            <a href="{{ post.codeurl }}" aria-label="Code" title="Code">
+              <i class="fab fa-github" aria-hidden="true"></i>
+              <span class="sr-only">Code</span>
+            </a>
+          {% endif %}
+          {% if publication_video_url %}
+            <a href="{{ publication_video_url }}" aria-label="Video" title="Video">
+              <i class="fa fa-video-camera" aria-hidden="true"></i>
+              <span class="sr-only">Video</span>
+            </a>
           {% endif %}
           {% if post.bibtexurl %}
-            <a href="{{ post.bibtexurl }}">BibTeX</a>
+            <a href="{{ post.bibtexurl }}" aria-label="BibTeX" title="BibTeX">
+              <i class="fa fa-file-code-o" aria-hidden="true"></i>
+              <span class="sr-only">BibTeX</span>
+            </a>
           {% endif %}
         </p>
       {% endif %}
